@@ -1,7 +1,7 @@
 # Weekly Course Outline 
 ## Statistical and Mathematical Methods for Data Science 
 Email : <a href="mailto:shahid.ashraf@nu.edu.pk" style=" word-wrap: break-word;" target="_blank">shahid.ashraf@nu.edu.pk</a></p>
-<a href="Course outline_.pdf" download="Course outline_lgebra.pdf">download  Course Outline in pdf here</a>
+<a href="Course outline_.pdf" download="SMMDS Fall 2023 Full and Final.pdf">download  Course Outline in pdf here</a>
 ## Assessment Instruments with Weights (homework, quizzes, midterms, final, programming assignments, lab work, etc.)
 | Assessment         | Weights | 
 |--------------|--------------|
