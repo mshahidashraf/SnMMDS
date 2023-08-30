@@ -2,8 +2,9 @@
 ## Statistical and Mathematical Methods for Data Science 
 Email : <a href="mailto:shahid.ashraf@nu.edu.pk" style=" word-wrap: break-word;" target="_blank">shahid.ashraf@nu.edu.pk</a></p>
 <a href="Course outline_.pdf" download="Course outline_lgebra.pdf">download  Course Outline in pdf here</a>
-Assessment Instruments with Weights (homework, quizzes, midterms, final, programming assignments, lab work, etc.)
-
+## Assessment Instruments with Weights (homework, quizzes, midterms, final, programming assignments, lab work, etc.)
+| Assessment         | Weights | 
+|--------------|--------------|
 | Quizzes + Assignments                | 20% |
 |Mid-term Exam                           |   20% |
 |Project                                  |  10% |
