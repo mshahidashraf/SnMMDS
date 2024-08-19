@@ -1,5 +1,6 @@
 # Weekly Course Outline 
 ## Statistical and Mathematical Methods for Data Science 
+Instructor Profile : <a href="https://mshahidashraf.github.io/" style=" word-wrap: break-word;" target="_blank">Muhammad Shahid Ashraf</a></p>
 Email : <a href="mailto:shahid.ashraf@nu.edu.pk" style=" word-wrap: break-word;" target="_blank">shahid.ashraf@nu.edu.pk</a></p>
 <a href="Course outline_.pdf" download="SMMDS Fall 2023 Full and Final.pdf">download  Course Outline in pdf here</a>
 ## Assessment Instruments with Weights 
